@@ -22,13 +22,12 @@
 - [Rebasing](./rebase.md)
 - [Adding more bookmarks](./more_bookmarks.md)
 
-<!-- # Level 2 -->
-<!-- problem solving -->
+# Level 2
 
-<!-- - [history navigation]() -->
-<!-- - [conflict resolution]() -->
-<!-- - [restore]() -->
-<!-- - [op log]() -->
+- [Undoing mistakes](./op_log.md)
+- [history navigation]()
+- [conflict resolution]()
+- [restore]()
 
 <!-- # Level 3 -->
 <!-- history rewirting -->
